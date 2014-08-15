@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Manhattan",
+        "ingredients": [
+            {
+                "item": "Chill a martini glass in the fridge"
+            },
+            {
+                "item": "6-8 ice cubes in a pint glass"
+            },
+            {
+                "item": "Add 2-3 oz bourbon or rye"
+            },
+            {
+                "item": "Add 1/2-1 oz vermouth"
+            },
+            {
+                "item": "3 dashes of bitters"
+            },
+            {
+                "item": "Stir or swirl glass for 20-30 seconds"
+            },
+            {
+                "item": "Strain into chilled martini glass"
+            }
+        ]
+    },
+    {
+        "name": "Old Fashioned (no fruit)",
+        "ingredients": [
+            {
+                "item": "Start with a small glass"
+            },
+            {
+                "item": "Add 1/4 oz simple syrup or a 1/2 tsp of sugar"
+            },
+            {
+                "item": "Add 3-4 dashes of bitters"
+            },
+            {
+                "item": "Muddle if using sugar"
+            },
+            {
+                "item": "Add some ice cubes, large if available"
+            },
+            {
+                "item": "Add 2-3 oz bourbon"
+            },
+            {
+                "item": "Stir and drink"
+            }
+        ]
+    },
+	   {
+          "name": "Sour",
+          "ingredients": [
+                 {
+                        "item": "Prep in a shaker"         
+        },
+                 {
+                        "item": "Put ice in the shaker"         
+        },
+                 {
+                        "item": "Add 3 oz fresh lemon juice"         
+        },
+                 {
+                        "item": "Add 1/2 oz simple syrup"         
+        },
+                 {
+                        "item": "Add 2-3 oz bourbon"         
+        },
+                 {
+                        "item": "Shake agressively for 20 seconds"         
+        },
+                 {
+                        "item": "Strain into a chilled glass or a glass with ice"                  
+        }      
+    ]   
+}
+]
